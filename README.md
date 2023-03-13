@@ -2,7 +2,7 @@
 Diferentes aplicaciones con Electron
 
 
-## Barra oculta ( titleBarStyle)
+## Barra oculta ( titleBarStyle )
 
 Uso de HTML Y CSS con Electron
 
