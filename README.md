@@ -14,3 +14,12 @@ Uso de HTML Y CSS con Electron
 
 <img src="IMG/electron3.PNG">
 <img src="IMG/electron4.PNG">
+
+## 
+
+<img src="IMG/electron5.PNG">
+
+
+## 
+
+<img src="IMG/electron6.PNG">
